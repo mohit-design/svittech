@@ -81,8 +81,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .about-image > img { margin-bottom: 25px; }
 .about-info > p { margin-bottom: 20px; }
-.box-about-counter { margin-top: 30px; padding: 20px 20px 5px; }
-.about-counter-info { margin-bottom: 20px; text-align: center; }
 
 	/*------- About Us Section Ends -------*/
 
@@ -99,31 +97,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 .services-information-slider .services-information-slider-marquee .services-information-slider-marquee-group span { font-size: 2.4rem; }
 
   /*------- Services Information Animation Section Ends -------*/
-
-  /*------- Why Choose Us Section Starts -------*/
-
-.why-choose-us-section > .container-fluid { padding: 25px 15px 45px; }
-.why-choose-us-image > img { margin-bottom: 30px; }
-.box-why-choose-us { margin: 45px 0 25px; padding: 65px 15px 20px; }
-
-	/*------- Why Choose Us Section Ends -------*/
-
-  /*------- Blog Section Starts -------*/
-
-.blog-section > .container-fluid { padding: 25px 15px; }
-.box-blogs { margin-bottom: 25px; }
-
-  /*------- Blog Section Ends -------*/
-
-  /*------- Contact Us Section Starts -------*/
-
-.contact-us-section > .container-fluid { padding: 60px 15px 25px; }
-.contact-us-image > img { margin: 25px 0; }
-.form-group-contact-us,
-.form-group-career { margin-bottom: 20px; }
-.form-control-contact-us { font-size: 1.4rem; }
-
-  /*------- Contact Us Section Ends -------*/
 
   /*------- Footer Section Starts -------*/
 
@@ -160,149 +133,17 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 	/*------- Mission and Vision Section Ends -------*/
 
-  /*------- Testimonials Section Starts -------*/
-
-.testimonial-section > .container-fluid { padding-bottom: 100px; padding-top: 0; }
-.testimonial-section .slick-initialized .slick-slide { padding: 0 10px; }
-.testimonials-image > img { margin-bottom: 25px; }
-
-		/*------- Slick Slider Arrow CSS Starts -------*/
-
-.testimonial-section .slick-prev { left: 32%; }
-.testimonial-section .slick-next { right: 32%; }
-
-		/*------- Slick Slider Arrow CSS Ends -------*/
-
-	/*------- Testimonials Section Ends -------*/
-
 /*------- About Us Page Ends -------*/
 
 /*------- Services Page Starts -------*/
 
 	/*------- Services Section Starts -------*/
 
-.box-services-sp { display: block; margin-bottom: 25px; padding: 20px 20px 30px; text-align: center; }
-.box-services-sp-icon { margin: 0 auto 45px; }
-.box-services-sp-info { width: 100%; }
-.box-services-sp-info > h4 { margin-bottom: 10px; }
-.box-services-sp-info > p:nth-child(2) { margin-bottom: 15px; }
+.services-section-sp > .container-fluid { padding-bottom: 0; }
 
 	/*------- Services Section Ends -------*/
 
 /*------- Services Page Ends -------*/
-
-/*------- Individual Services Page Starts -------*/
-
-	/*------- Work Process Section Starts -------*/
-
-.work-process-section > .container-fluid { margin-bottom: 25px; padding-bottom: 0; }
-.box-work-process-name { bottom: 25px; left: 25px; }
-
-	/*------- Work Process Section Ends -------*/
-
-	/*------- Estimation Section Starts -------*/
-
-.box-estimation { padding: 25px; }
-.estimation-section-heading > h4 { margin: 20px 0 25px; }
-.estimation-info > p { margin-bottom: 25px; }
-
-	/*------- Estimation Section Ends -------*/
-
-/*------- Individual Services Page Ends -------*/
-
-/*------- Technologies Page Starts -------*/
-
-	/*------- Technologies Section Starts -------*/
-
-.technologies-section > .container-fluid { padding-bottom: 0; }
-.tech-listing { display: block; margin-bottom: 15px; }
-.tech-listing > li { display: inline-block; margin: 0 7px 10px 0; }
-.tech-listing > li:last-child { margin: 0 0 10px 0; }
-.box-technologies { margin-bottom: 25px; }
-.box-technologies-icon { padding: 20px; }
-.box-technologies-icon > svg { height: 80px; width: 80px; }
-.box-technologies-info > h5 { font-size: 1.6rem; }
-
-	/*------- Technologies Section Ends -------*/
-
-/*------- Technologies Page Ends -------*/
-
-/*------- Work Page Starts -------*/
-
-	/*------- Work Section Starts -------*/
-
-.work-section > .container-fluid { padding-bottom: 0; }
-.box-work {margin-bottom: 25px; }
-
-	/*------- Work Section Ends -------*/
-
-/*------- Work Page Ends -------*/
-
-/*------- Career Page Starts -------*/
-
-	/*------- Career Section Starts -------*/
-
-.box-career { margin-bottom: 25px; }
-.box-career > a > h5 { font-size: 1.6rem; padding: 10px 15px; }
-.box-career-info > p { font-size: 1.4rem; }
-
-	/*------- Career Section Ends -------*/
-
-	/*------- Job Responsibilities Section Starts -------*/
-
-.job-responsibilities-section > .container-fluid { padding-top: 0; }
-.jd-listing { display: block; margin-bottom: 15px; }
-.jd-listing > li { display: inline-block; margin: 0 7px 10px 0; }
-.jd-listing > li:last-child { margin: 0 0 10px 0; }
-.box-job-responsibilities { padding: 25px; }
-.job-responsibilities > h4 { font-size: 1.8rem; }
-.job-responsibilities > p { font-size: 1.4rem; margin-bottom: 15px; }
-.job-responsibilities-in-detail > h4 { font-size: 1.6rem; }
-.job-responsibilities-listing { margin-bottom: 15px; }
-.job-responsibilities-listing > li { font-size: 1.4rem; }
-.btn-apply { margin-top: 25px; }
-
-		/*------- Career Form Section Starts -------*/
-
-.career-form { padding: 25px; }
-.career-form-section { margin-top: 0; }
-.filelabel { margin: 0 0 25px; }
-
-		/*------- Career Form Section Ends -------*/
-
-		/*------- Custom Input File CSS Starts -------*/
-
-.filelabel .title { font-size: 1.6rem; line-height: 1.7; }
-.filelabel .title > span { font-size: 1.2rem; }
-		
-		/*------- Custom Input File CSS Ends -------*/
-
-	/*------- Job Responsibilities Section Ends -------*/
-
-/*------- Career Page Ends -------*/
-
-/*------- Blogs Page Starts -------*/
-
-	/*------- Blog Section Starts -------*/
-
-.blog-bgp-section > .container-fluid { padding-bottom: 0; }
-
-	/*------- Blog Section Ends -------*/
-
-/*------- Blogs Page Ends -------*/
-
-/*------- Blog Details Page Starts -------*/
-
-	/*------- Blog Section Starts -------*/
-
-.box-individual-blog-image > img { margin-bottom: 25px; }
-.box-individual-blog-info > h5 { font-size: 1.6rem; }
-.box-individual-blog-info > p { margin-bottom: 20px; }
-.box-individual-blog-info > p:last-child { margin-bottom: 25px; }
-
-	/*------- Blog Section Ends -------*/
-
-/*------- Blog Details Page Ends -------*/
 
 /*------- Contact Us Page Starts -------*/
 
@@ -310,7 +151,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .box-contact-info { margin: 40px 0 25px; }
 .box-contact-info > p > a { word-wrap: break-word; }
-.contact-us-map { margin-top: 25px; }
 
 	/*------- Contact Us Section Ends -------*/
 
@@ -324,7 +164,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .container-fluid { padding: 30px 15px; }
 .section-heading > div { margin-bottom: 15px; }
-.section-heading > div > span > svg,
 .section-heading > h2 { font-size: 2.7rem; margin-bottom: 30px; }
 .dash-arrow-and-paragraph { margin-bottom: 30px; }
 .section-heading-ip > h1 { font-size: 3rem; }
@@ -337,7 +176,7 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .bg-logo-burger-menu-mobile { background-color: #ffffff; display: block; padding: 10px 15px; position: relative; z-index: 10; }
 .header-logo-mobile > a { display: inline-block; }
-.header-logo-mobile > a > img { width: 120px; }
+.header-logo-mobile > a > img { width: 60px; }
 
 	  /*------- Mobile Hamburger Menu Section Starts -------*/
 
@@ -388,15 +227,13 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
   /*------- Banner Section Starts -------*/
 
 .wrapper { margin-top: 0; }
-.banner-image > img { margin-bottom: 30px; }
-.banner-section-heading > h1 { font-size: 3rem; margin-bottom: 30px; }
+.banner-info > h1 { font-size: 2.7rem; }
 
   /*------- Banner Section Ends -------*/
 
   /*------- About Us Section Starts -------*/
 
 .about-image > img { margin-bottom: 30px; }
-.box-about-counter { margin-top: 50px; }
 
 	/*------- About Us Section Ends -------*/
 
@@ -414,20 +251,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 	/*------- Services Information Animation Section Ends -------*/
 
-  /*------- Why Choose Us Section Starts -------*/
-
-.why-choose-us-section > .container-fluid { padding: 30px 15px 60px; }
-.why-choose-us-image > img { margin-bottom: 30px; }
-
-	/*------- Why Choose Us Section Ends -------*/
-
-  /*------- Contact Us Section Starts -------*/
-
-.contact-us-section > .container-fluid { padding: 90px 15px 30px; }
-.contact-us-image > img { margin-bottom: 30px; }
-
-  /*------- Contact Us Section Ends -------*/
-
   /*------- Footer Section Starts -------*/
 
 .footer-section > .container-fluid { padding: 30px 15px; }
@@ -435,6 +258,7 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 .footer-company-desc > p { margin: 0 0 30px; }
 .footer-quick-links-listing { margin-bottom: 40px; }
 .footer-logo-contact-listing,
+.footer-social-account-listing,
 .footer-logo-contact-sub-listing { display: block; }
 .footer-logo-contact-listing { padding: 30px; }
 .footer-logo { margin-bottom: 30px; text-align: center; }
@@ -443,7 +267,8 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 .footer-logo-contact-sub-listing > li:last-child { margin-bottom: 0; }
 .footer-call-email > h4 > a { font-size: 2rem; }
 .footer-social-account-listing { margin-bottom: 40px; }
-.footer-social-account-listing > li { margin-right: 25px; padding-right: 25px; }
+.footer-social-account-listing > li { margin: 0 0 20px 0; padding-right: 0; }
+.footer-social-account-listing > li > a::after { display: none; }
 
   /*------- Footer Section Ends -------*/
 
@@ -458,108 +283,17 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 	/*------- Mission and Vision Section Ends -------*/
 
-  /*------- Testimonials Section Starts -------*/
-
-.testimonial-section > .container-fluid { padding-bottom: 105px; padding-top: 0; }
-.testimonials-image > img { margin-bottom: 30px; }
-.testimonial-section .slick-prev { left: 39%; }
-.testimonial-section .slick-next { right: 39%; }
-
-  /*------- Testimonials Section Ends -------*/
-
 /*------- About Us Page Ends -------*/
 
 /*------- Services Page Starts -------*/
 
 	/*------- Services Section Starts -------*/
 
-.box-services-sp { display: block; margin-bottom: 25px; text-align: center; }
-.box-services-sp-icon { margin: 0 auto 45px; }
-.box-services-sp-info { width: 100%; }
-.box-services-sp-info > h4 { margin-bottom: 10px; }
-.box-services-sp-info > p:nth-child(2) { margin-bottom: 15px; }
+.services-section-sp > .container-fluid { padding-bottom: 0; }
 
 	/*------- Services Section Ends -------*/
 
 /*------- Services Page Ends -------*/
-
-/*------- Individual Services Page Starts -------*/
-
-	/*------- Work Process Section Starts -------*/
-
-.work-process-section > .container-fluid { margin-bottom: 30px; padding-bottom: 0; }
-
-	/*------- Work Process Section Ends -------*/
-
-	/*------- Estimation Section Starts -------*/
-
-.box-estimation { padding: 30px; }
-
-	/*------- Estimation Section Ends -------*/
-
-/*------- Individual Services Page Ends -------*/
-
-/*------- Technologies Page Starts -------*/
-
-	/*------- Technologies Section Starts -------*/
-
-.technologies-section > .container-fluid { padding-bottom: 0; }
-.tech-listing > li { margin-right: 12px; padding: 10px; }
-
-	/*------- Technologies Section Ends -------*/
-
-/*------- Technologies Page Ends -------*/
-
-/*------- Career Page Starts -------*/
-
-	/*------- Job Responsibilities Section Starts -------*/
-
-.job-responsibilities-section > .container-fluid { padding-top: 0; }
-.jd-listing { display: block; margin-bottom: 15px; }
-.jd-listing > li { display: inline-block; margin: 0 12px 15px 0; }
-.jd-listing > li:last-child { margin: 0 0 15px 0; }
-.box-job-responsibilities { padding: 30px; }
-.job-responsibilities > h4 { font-size: 1.8rem; }
-
-		/*------- Career Form Section Starts -------*/
-
-.career-form { padding: 30px; }
-.career-form-section { margin-top: 0; }
-
-		/*------- Career Form Section Ends -------*/
-
-		/*------- Custom Input File CSS Starts -------*/
-
-.filelabel .title { font-size: 1.6rem; line-height: 1.7; }
-.filelabel .title > span { font-size: 1.2rem; }
-		
-		/*------- Custom Input File CSS Ends -------*/
-
-	/*------- Job Responsibilities Section Ends -------*/
-
-/*------- Career Page Ends -------*/
-
-/*------- Blogs Page Starts -------*/
-
-	/*------- Blog Section Starts -------*/
-
-.blog-bgp-section > .container-fluid { padding-bottom: 0; }
-
-	/*------- Blog Section Ends -------*/
-
-/*------- Blogs Page Ends -------*/
-
-/*------- Blog Details Page Starts -------*/
-
-	/*------- Blog Section Starts -------*/
-
-.box-individual-blog-image > img { margin-bottom: 30px; }
-.box-individual-blog-info > h5 { font-size: 1.6rem; }
-.box-individual-blog-info > p:last-child { margin-bottom: 30px; }
-
-	/*------- Blog Section Ends -------*/
-
-/*------- Blog Details Page Ends -------*/
 
 /*------- Contact Us Page Starts -------*/
 
@@ -567,7 +301,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .box-contact-info { margin: 40px 0 30px; }
 .box-contact-info.box-address-contact-info { margin-bottom: 60px; }
-.contact-us-map { margin-top: 30px; }
 
 	/*------- Contact Us Section Ends -------*/
 
@@ -581,7 +314,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .container-fluid { padding: 40px 15px; }
 .section-heading > div { margin-bottom: 20px; }
-.section-heading > div > span > svg,
 .section-heading > h2 { font-size: 3rem; margin-bottom: 40px; }
 .dash-arrow-and-paragraph { margin-bottom: 50px; }
 .section-heading-ip > h1 { font-size: 3.3rem; }
@@ -594,7 +326,7 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .bg-logo-burger-menu-mobile { background-color: #ffffff; display: block; padding: 10px 15px; position: relative; z-index: 10; }
 .header-logo-mobile > a { display: inline-block; }
-.header-logo-mobile > a > img { width: 120px; }
+.header-logo-mobile > a > img { width: 60px; }
 
 	  /*------- Mobile Hamburger Menu Section Starts -------*/
 
@@ -645,15 +377,13 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
   /*------- Banner Section Starts -------*/
 
 .wrapper { margin-top: 0; }
-.banner-image > img { margin-bottom: 40px; }
-.banner-section-heading > h1 { font-size: 3.3rem; margin-bottom: 30px; }
+.banner-info > h1 { font-size: 3rem; }
 
   /*------- Banner Section Ends -------*/
 
   /*------- About Us Section Starts -------*/
 
 .about-image > img { margin-bottom: 40px; }
-.box-about-counter { margin-top: 40px; }
 
 	/*------- About Us Section Ends -------*/
 
@@ -670,20 +400,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 	/*------- Services Information Animation Section Ends -------*/
 
-  /*------- Why Choose Us Section Starts -------*/
-
-.why-choose-us-section > .container-fluid { padding: 40px 15px 90px; }
-.why-choose-us-image > img { margin-bottom: 30px; }
-
-	/*------- Why Choose Us Section Ends -------*/
-
-  /*------- Contact Us Section Starts -------*/
-
-.contact-us-section > .container-fluid { padding: 90px 15px 30px; }
-.contact-us-image > img { margin-bottom: 40px; }
-
-  /*------- Contact Us Section Ends -------*/
-
   /*------- Footer Section Starts -------*/
 
 .footer-section > .container-fluid { padding: 40px 15px 30px; }
@@ -691,6 +407,7 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 .footer-company-desc > p { margin: 0 0 30px; }
 .footer-quick-links-listing { margin-bottom: 40px; }
 .footer-logo-contact-listing,
+.footer-social-account-listing,
 .footer-logo-contact-sub-listing { display: block; }
 .footer-logo-contact-listing { padding: 30px; }
 .footer-logo { margin-bottom: 30px; text-align: center; }
@@ -699,7 +416,8 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 .footer-logo-contact-sub-listing > li:last-child { margin-bottom: 0; }
 .footer-call-email > h4 > a { font-size: 2.2rem; }
 .footer-social-account-listing { margin-bottom: 40px; }
-.footer-social-account-listing > li { margin-right: 25px; padding-right: 25px; }
+.footer-social-account-listing > li { margin: 0 0 20px 0; padding-right: 0; }
+.footer-social-account-listing > li > a::after { display: none; }
 
   /*------- Footer Section Ends -------*/
 
@@ -714,95 +432,17 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 	/*------- Mission and Vision Section Ends -------*/
 
-  /*------- Testimonials Section Starts -------*/
-
-.testimonial-section > .container-fluid { padding-bottom: 115px; padding-top: 0; }
-.testimonials-image > img { margin-bottom: 40px; }
-.testimonial-section .slick-prev { left: 42%; }
-.testimonial-section .slick-next { right: 42%; }
-
-  /*------- Testimonials Section Ends -------*/
-
 /*------- About Us Page Ends -------*/
 
 /*------- Services Page Starts -------*/
 
 	/*------- Services Section Starts -------*/
 
-.box-services-sp { margin-bottom: 40px; }
+.services-section-sp > .container-fluid { padding-bottom: 0; }
 
 	/*------- Services Section Ends -------*/
 
 /*------- Services Page Ends -------*/
-
-/*------- Individual Services Page Starts -------*/
-
-	/*------- Work Process Section Starts -------*/
-
-.work-process-section > .container-fluid { margin-bottom: 40px; padding-bottom: 10px; }
-
-	/*------- Work Process Section Ends -------*/
-
-	/*------- Estimation Section Starts -------*/
-
-.box-estimation { padding: 40px; }
-
-	/*------- Estimation Section Ends -------*/
-
-/*------- Individual Services Page Ends -------*/
-
-/*------- Technologies Page Starts -------*/
-
-	/*------- Technologies Section Starts -------*/
-
-.technologies-section > .container-fluid { padding-bottom: 10px; }
-
-	/*------- Technologies Section Ends -------*/
-
-/*------- Technologies Page Ends -------*/
-
-/*------- Career Page Starts -------*/
-
-  /*------- Career Section Starts -------*/
-
-.career-section > .container-fluid { padding-bottom: 10px; }
-
-  /*------- Career Section Ends -------*/
-
-	/*------- Job Responsibilities Section Starts -------*/
-
-.job-responsibilities-section > .container-fluid { padding-top: 0; }
-.jd-listing { display: block; margin-bottom: 20px; }
-.jd-listing > li { display: inline-block; margin: 0 12px 15px 0; }
-.jd-listing > li:last-child { margin: 0 0 15px 0; }
-.job-responsibilities > h4 { font-size: 2rem; }
-
-		/*------- Career Form Section Starts -------*/
-
-.career-form-section { margin-top: 0; }
-
-		/*------- Career Form Section Ends -------*/
-
-		/*------- Custom Input File CSS Starts -------*/
-
-.filelabel .title { font-size: 1.6rem; line-height: 1.7; }
-.filelabel .title > span { font-size: 1.2rem; }
-		
-		/*------- Custom Input File CSS Ends -------*/
-
-	/*------- Job Responsibilities Section Ends -------*/
-
-/*------- Career Page Ends -------*/
-
-/*------- Blogs Page Starts -------*/
-
-	/*------- Blog Section Starts -------*/
-
-.blog-bgp-section > .container-fluid { padding-bottom: 10px; }
-
-	/*------- Blog Section Ends -------*/
-
-/*------- Blogs Page Ends -------*/
 
 /*------- Contact Us Page Starts -------*/
 
@@ -810,7 +450,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .box-contact-info { margin: 40px 0 30px; }
 .box-contact-info.box-address-contact-info { margin-bottom: 60px; }
-.contact-us-map { margin-top: 40px; }
 
 	/*------- Contact Us Section Ends -------*/
 
@@ -824,7 +463,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .container-fluid { padding: 40px 15px; }
 .section-heading > div { margin-bottom: 15px; }
-.section-heading > div > span > svg,
 .section-heading > h2 { font-size: 3rem; margin-bottom: 40px; }
 .dash-arrow-and-paragraph { margin-bottom: 50px; }
 .section-heading-ip > h1 { font-size: 3.3rem; }
@@ -837,7 +475,7 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .bg-logo-burger-menu-mobile { background-color: #ffffff; display: block; padding: 10px 15px; position: relative; z-index: 10; }
 .header-logo-mobile > a { display: inline-block; }
-.header-logo-mobile > a > img { width: 120px; }
+.header-logo-mobile > a > img { width: 60px; }
 
 	  /*------- Mobile Hamburger Menu Section Starts -------*/
 
@@ -888,22 +526,19 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
   /*------- Banner Section Starts -------*/
 
 .wrapper { margin-top: 0; }
-.banner-image > img { margin-bottom: 40px; }
-.banner-section-heading > h1 { font-size: 3.3rem; margin-bottom: 30px; }
+.banner-info > h1 { font-size: 3rem; }
 
   /*------- Banner Section Ends -------*/
 
   /*------- About Us Section Starts -------*/
 
 .about-image > img { margin-bottom: 40px; }
-.box-about-counter { margin-top: 40px; }
 
 	/*------- About Us Section Ends -------*/
 
   /*------- Services Section Starts -------*/
 
-.view-more-services-details,
-.view-more-blog-details { margin-top: 10px; }
+.box-services-info > h4 { font-size: 1.6rem; }
 
   /*------- Services Section Ends -------*/
 
@@ -913,29 +548,16 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 	/*------- Services Information Animation Section Ends -------*/
 
-  /*------- Why Choose Us Section Starts -------*/
-
-.why-choose-us-section > .container-fluid { padding: 40px 15px 90px; }
-.why-choose-us-image > img { margin-bottom: 30px; }
-.box-why-choose-us { padding: 75px 15px 30px; }
-.box-why-choose-us-info > h4 { line-height: 1.5; }
-
-	/*------- Why Choose Us Section Ends -------*/
-
-  /*------- Contact Us Section Starts -------*/
-
-.contact-us-section > .container-fluid { padding: 90px 15px 30px; }
-
-  /*------- Contact Us Section Ends -------*/
-
   /*------- Footer Section Starts -------*/
 
 .footer-section > .container-fluid { padding: 40px 15px 30px; }
 .footer-heading > h4 { font-size: 2.2rem; line-height: 1.5; margin-bottom: 25px; }
 .footer-company-desc > p { margin: 0 0 40px; }
 .footer-quick-links-listing { margin-bottom: 40px; }
-.footer-social-account-listing > li { margin-right: 24px; padding-right: 24px; }
-.footer-logo > a > img { width: 125px; }
+.footer-social-account-listing { display: block; }
+.footer-social-account-listing > li { margin: 0 0 20px 0; padding-right: 0; }
+.footer-social-account-listing > li > a::after { display: none; }
+.footer-logo > a > img { width: 80px; }
 .footer-call-email > h4 > a { font-size: 2rem; }
 
   /*------- Footer Section Ends -------*/
@@ -951,87 +573,7 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 	/*------- Mission and Vision Section Ends -------*/
 
-  /*------- Testimonials Section Starts -------*/
-
-.testimonial-section > .container-fluid { padding-bottom: 40px; }
-.testimonial-section .slick-prev { left: 40%; }
-.testimonial-section .slick-next { right: 40%; }
-
-  /*------- Testimonials Section Ends -------*/
-
 /*------- About Us Page Ends -------*/
-
-/*------- Services Page Starts -------*/
-
-	/*------- Services Section Starts -------*/
-
-.box-services-sp { margin-bottom: 40px; }
-
-	/*------- Services Section Ends -------*/
-
-/*------- Services Page Ends -------*/
-
-/*------- Individual Services Page Starts -------*/
-
-	/*------- Work Process Section Starts -------*/
-
-.work-process-section > .container-fluid { margin-bottom: 40px; padding-bottom: 10px; }
-
-	/*------- Work Process Section Ends -------*/
-
-	/*------- Estimation Section Starts -------*/
-
-.box-estimation { padding: 40px; }
-
-	/*------- Estimation Section Ends -------*/
-
-/*------- Individual Services Page Ends -------*/
-
-/*------- Technologies Page Starts -------*/
-
-	/*------- Technologies Section Starts -------*/
-
-.technologies-section > .container-fluid { padding-bottom: 10px; }
-
-	/*------- Technologies Section Ends -------*/
-
-/*------- Technologies Page Ends -------*/
-
-/*------- Career Page Starts -------*/
-
-  /*------- Career Section Starts -------*/
-
-.career-section > .container-fluid { padding-bottom: 10px; }
-
-  /*------- Career Section Ends -------*/
-
-	/*------- Job Responsibilities Section Starts -------*/
-
-.job-responsibilities-section > .container-fluid { padding-top: 0; }
-.jd-listing { display: block; margin-bottom: 20px; }
-.jd-listing > li { display: inline-block; margin: 0 12px 15px 0; }
-.jd-listing > li:last-child { margin: 0 0 15px 0; }
-.job-responsibilities > h4 { font-size: 2.2rem; }
-
-		/*------- Career Form Section Starts -------*/
-
-.career-form-section { margin-top: 0; }
-
-		/*------- Career Form Section Ends -------*/
-
-	/*------- Job Responsibilities Section Ends -------*/
-
-/*------- Career Page Ends -------*/
-
-/*------- Blogs Page Starts -------*/
-
-	/*------- Blog Section Starts -------*/
-
-.blog-bgp-section > .container-fluid { padding-bottom: 10px; }
-
-	/*------- Blog Section Ends -------*/
-
-/*------- Blogs Page Ends -------*/
 
 /*------- Contact Us Page Starts -------*/
 
@@ -1039,7 +581,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 
 .box-contact-info { margin: 40px 0 30px; }
 .box-contact-info.box-address-contact-info { margin-bottom: 60px; }
-.contact-us-map { margin-top: 40px; }
 
 	/*------- Contact Us Section Ends -------*/
 

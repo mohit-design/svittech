@@ -35,11 +35,9 @@ a:focus { outline: 0; text-decoration: none; -webkit-transition: 0.5s ease; -moz
 .row { margin: 0 -15px; }
 .row [class^=col] { padding: 0 15px; }
 .section-heading > div > span { color: #1a194d; font: 1.6rem/normal "Unbounded-Medium"; }
-.section-heading > div > span.text-white { color: #ffffff; font: 1.6rem/normal "Unbounded-Medium"; }
 .section-heading > div > span > svg { fill: #f39f1e; margin-left: 15px; }
 .section-heading > h2 { color: #1a194d; font: 3.6rem/1.4 "Unbounded-SemiBold"; margin-bottom: 50px; }
 .section-heading > h2 span { color: #f39f1e; }
-.section-heading > h2.text-white { color: #ffffff; font: 3.6rem/1.4 "Unbounded-SemiBold"; }
 .section-heading-ip > h1 { color: #ffffff; font: 4rem/1.2 "Unbounded-Bold"; padding-bottom: 10px; position: relative; text-align: center; text-transform: uppercase; z-index: 1; }
 .section-heading-ip > h1::after { background-color: #fff; bottom: 0; content: ""; display: block; height: 2px; left: 50%; position: absolute; -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -ms-transform: translateX(-50%); -o-transform: translateX(-50%); transform: translateX(-50%); width: 100px; z-index: -1; }
 p { color: #444444; font: 1.6rem/2 "Unbounded-Regular"; }
@@ -281,16 +279,7 @@ button.btn-primary:hover,
 
 	/*------- Services Section Starts -------*/
 
-.technologies-section > .container-fluid { padding-bottom: 40px; }
-.box-services-sp { background-color: #ffffff; border: 2px solid #c4c4c4; -webkit-border-radius: 14px; -moz-border-radius: 14px; -ms-border-radius: 14px; -o-border-radius: 14px; border-radius: 14px; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; margin-bottom: 50px; padding: 30px 20px 35px; }
-.box-services-sp:last-child { margin-bottom: 0; }
-.box-services-sp-info > h4 { color: #1a194d; font: 1.8rem/1.4 "Unbounded-Medium"; margin-bottom: 5px; text-transform: uppercase; }
-.box-services-sp-info > p:nth-child(2) { margin-bottom: 10px; }
-.box-services-sp-info > p > a { color: #1a194d; font: 1.6rem/1.2 "Unbounded-Medium"; padding-bottom: 10px; position: relative; text-transform: uppercase; z-index: 1; }
-.box-services-sp-info > p > a::after { background-color: #1a194d; bottom: 0; content: ""; height: 2px; left: 50%; position: absolute; -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -ms-transform: translateX(-50%); -o-transform: translateX(-50%); transform: translateX(-50%); -webkit-transition: 0.5s ease; -moz-transition: 0.5s ease; -ms-transition: 0.5s ease; -o-transition: 0.5s ease; transition: 0.5s ease; width: 50%; z-index: 1; }
-.box-services-sp-info > p > a:hover { color: #f39f1e; }
-.box-services-sp-info > p > a:hover::after { background-color: #f39f1e; width: 100%; }
-.box-services-sp:hover .box-services-sp-icon::after { right: 20px; }
+.services-section-sp > .container-fluid { padding-bottom: 40px; }
 
 	/*------- Services Section Ends -------*/
 
