@@ -104,9 +104,9 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 .footer-logo > a { text-align: center; }
 .footer-heading > h4 { font-size: 1.8rem; line-height: 1.5; margin-bottom: 20px; }
 .footer-company-desc > p { margin: 0 0 20px; }
-.footer-quick-links-listing { margin-bottom: 20px; }
+.footer-quick-links-listing { margin-bottom: 25px; }
 .footer-quick-links-listing > li { margin-bottom: 15px; }
-.footer-social-account-listing { margin-bottom: 20px; }
+.footer-social-account-listing { margin-bottom: 25px; }
 .footer-social-account-listing,
 .footer-logo-contact-listing,
 .footer-logo-contact-sub-listing { display: block; }
@@ -236,14 +236,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 .about-image > img { margin-bottom: 30px; }
 
 	/*------- About Us Section Ends -------*/
-
-  /*------- Services Section Starts -------*/
-
-.box-services-info > h4 > span { display: inline; }
-.view-more-services-details,
-.view-more-blog-details { margin-top: 0; }
-
-  /*------- Services Section Ends -------*/
 
   /*------- Services Information Animation Section Starts -------*/
 
@@ -386,13 +378,6 @@ p { font: 1.4rem/1.8 "Unbounded-Regular"; }
 .about-image > img { margin-bottom: 40px; }
 
 	/*------- About Us Section Ends -------*/
-
-  /*------- Services Section Starts -------*/
-
-.view-more-services-details,
-.view-more-blog-details { margin-top: 10px; }
-
-  /*------- Services Section Ends -------*/
 
   /*------- Services Information Animation Section Starts -------*/
 
